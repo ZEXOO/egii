@@ -1,7 +1,7 @@
 /*
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By ZEXXO STORE.
+   * Contact Me on wa.me/6289529291185
+   * Follow https://github.com/ZEXOO
 */
 
 const fs = require('fs')
@@ -18,20 +18,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6289529291185','6289529291185','6289529291185']
+global.premium = ['6289529291185']
+global.ownernomer = '6289529291185'
+global.ownername = 'ZEXXO STORE'
+global.botname = 'ZEXXO-Md'
+global.footer = 'ZEXXO STORE'
+global.ig = 'https://instagram.com/....M'
+global.email = '.......@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.sc = 'BAYAR 20K KE OWNER'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
+global.packname = 'ZEXXO-Md'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'chika'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
